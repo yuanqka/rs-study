@@ -1,1 +1,8 @@
 /target
+.gitnexus/
+.gemini/
+AGENT.md
+CLAUDE.md
+GEMINI.md
+.vscode/
+.idea/
